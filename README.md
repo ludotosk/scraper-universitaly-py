@@ -2,7 +2,9 @@
 
 ## Install
 
-'''pip install -r requirements.txt'''
+'''bash
+pip install -r requirements.txt
+'''
 
 ## How does it work
 
